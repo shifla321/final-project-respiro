@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "530240481675",
+    "project_id": "respiro-1930b",
+    "storage_bucket": "respiro-1930b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530240481675:android:98b1fd4a257517d62be78e",
+        "android_client_info": {
+          "package_name": "com.example.respiro_projectfltr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530240481675-02ogngriqocskqa0jkvcojqm8oh2oklb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIYyJMLB7gEKXSZ5jNPWkcRVXeWivr1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530240481675-02ogngriqocskqa0jkvcojqm8oh2oklb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530240481675-o0r4f7e054entjpatl28kdnhp5primdp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.respiroProjectfltr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
